@@ -1,0 +1,1 @@
+{"id":"com.jorge.for-you","version":"0.4.0","name":"Para ti AI","description":"Recomendaciones personales que aprenden de tu actividad real en Stremio: progreso, películas terminadas, abandonadas y repeticiones.","resources":["catalog"],"types":["movie"],"catalogs":[{"type":"movie","id":"for-you","name":"✨ Para ti","extra":[{"name":"skip"}]}],"idPrefixes":["tt"]}
