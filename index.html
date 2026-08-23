@@ -6,15 +6,15 @@
   <meta name="theme-color" content="#f5f7fb">
   <title>Para ti · Control Tower</title>
   <style>
-    :root{color-scheme:light dark;--bg:#f5f7fb;--panel:#fff;--panel2:#eef3f8;--text:#122033;--muted:#6b7788;--line:#dfe6ee;--blue:#155eef;--cyan:#0e9f9a;--green:#178653;--amber:#b66a00;--red:#c73636;--shadow:0 14px 38px rgba(19,38,65,.08)}
+    :root{color-scheme:light dark;--bg:#f5f7fb;--panel:#fff;--text:#122033;--muted:#6b7788;--line:#dfe6ee;--blue:#155eef;--green:#178653;--amber:#b66a00;--red:#c73636;--shadow:0 14px 38px rgba(19,38,65,.08)}
     *{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:linear-gradient(180deg,#eef4fb 0,#f8fafc 42%,#f5f7fb 100%);color:var(--text)}
     .shell{max-width:980px;margin:0 auto;padding:30px 18px 56px}.top{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;margin-bottom:24px}.eyebrow{font-size:12px;font-weight:800;letter-spacing:.16em;color:var(--blue);text-transform:uppercase}.title{margin:7px 0 5px;font-size:clamp(30px,7vw,52px);line-height:.98;letter-spacing:-.045em}.sub{color:var(--muted);font-size:15px;max-width:620px}.live{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:800;color:var(--green);white-space:nowrap;margin-top:4px}.dot{width:9px;height:9px;border-radius:99px;background:currentColor;box-shadow:0 0 0 5px rgba(23,134,83,.12)}
     .hero{background:var(--panel);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);padding:22px;margin-bottom:16px}.statusrow{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}.state{display:inline-flex;align-items:center;gap:9px;border-radius:999px;padding:9px 13px;font-size:13px;font-weight:900;letter-spacing:.04em}.state.pass{background:#e8f7ef;color:var(--green)}.state.warn{background:#fff3dc;color:var(--amber)}.state.fail{background:#fdecec;color:var(--red)}
-    .biglabel{color:var(--muted);font-size:13px;font-weight:700;margin-bottom:5px}.bigtime{font-size:clamp(25px,7vw,42px);line-height:1;font-weight:850;letter-spacing:-.035em}.relative{margin-top:8px;color:var(--muted);font-size:14px}.timeline{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;margin-top:26px}.track{height:2px;background:linear-gradient(90deg,var(--cyan),var(--blue));opacity:.55}.pulse{width:12px;height:12px;border-radius:99px;background:var(--blue);box-shadow:0 0 0 7px rgba(21,94,239,.1)}
+    .biglabel{color:var(--muted);font-size:13px;font-weight:700;margin-bottom:5px}.bigtime{font-size:clamp(25px,7vw,42px);line-height:1;font-weight:850;letter-spacing:-.035em}.relative{margin-top:8px;color:var(--muted);font-size:14px}.timeline{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;margin-top:26px}.track{height:2px;background:linear-gradient(90deg,#0e9f9a,var(--blue));opacity:.55}.pulse{width:12px;height:12px;border-radius:99px;background:var(--blue);box-shadow:0 0 0 7px rgba(21,94,239,.1)}
     .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:16px 0}.metric{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px;min-width:0}.metric .k{color:var(--muted);font-size:12px;font-weight:750;text-transform:uppercase;letter-spacing:.07em}.metric .v{font-size:25px;font-weight:850;margin-top:7px;letter-spacing:-.03em}.metric .s{color:var(--muted);font-size:12px;margin-top:3px}
-    .actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:18px}.refresh{appearance:none;border:0;border-radius:14px;padding:13px 18px;min-height:48px;background:var(--blue);color:#fff;text-decoration:none;font-weight:850;font-size:15px;display:inline-flex;align-items:center;gap:9px;box-shadow:0 8px 22px rgba(21,94,239,.22)}.refresh:active{transform:translateY(1px)}.note{font-size:12px;color:var(--muted);max-width:460px}.foot{margin-top:18px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
-    @media(max-width:720px){.shell{padding-top:22px}.top{display:block}.live{margin-top:14px}.grid{grid-template-columns:repeat(2,1fr)}.timeline{grid-template-columns:1fr auto 1fr}.hero{padding:18px}.bigtime{font-size:30px}}
-    @media(prefers-color-scheme:dark){:root{--bg:#0b1018;--panel:#111823;--panel2:#151f2c;--text:#eef4fb;--muted:#91a0b5;--line:#233043;--shadow:0 14px 38px rgba(0,0,0,.28)}body{background:linear-gradient(180deg,#09111d 0,#0d141e 45%,#0b1018 100%)}.state.pass{background:#112c21}.state.warn{background:#322612}.state.fail{background:#35191b}}
+    .actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:18px}.refresh{appearance:none;border:0;border-radius:14px;padding:13px 18px;min-height:48px;background:var(--blue);color:#fff;font-weight:850;font-size:15px;display:inline-flex;align-items:center;gap:9px;box-shadow:0 8px 22px rgba(21,94,239,.22);cursor:pointer}.refresh:disabled{opacity:.62;cursor:wait}.refresh:active:not(:disabled){transform:translateY(1px)}.note{font-size:12px;color:var(--muted);max-width:500px}.note.ok{color:var(--green);font-weight:800}.note.bad{color:var(--red);font-weight:800}.foot{margin-top:18px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+    @media(max-width:720px){.shell{padding-top:22px}.top{display:block}.live{margin-top:14px}.grid{grid-template-columns:repeat(2,1fr)}.hero{padding:18px}.bigtime{font-size:30px}}
+    @media(prefers-color-scheme:dark){:root{--bg:#0b1018;--panel:#111823;--text:#eef4fb;--muted:#91a0b5;--line:#233043;--shadow:0 14px 38px rgba(0,0,0,.28)}body{background:linear-gradient(180deg,#09111d 0,#0d141e 45%,#0b1018 100%)}.state.pass{background:#112c21}.state.warn{background:#322612}.state.fail{background:#35191b}}
   </style>
 </head>
 <body>
@@ -25,7 +25,7 @@
         <h1 class="title">Recommendation monitor</h1>
         <div class="sub">Estado del catálogo personal de Stremio. Sin tokens, claves ni payloads sensibles.</div>
       </div>
-      <div class="live"><span class="dot"></span><span id="liveText">AUTO · 60s</span></div>
+      <div class="live"><span class="dot"></span><span>AUTO · 60s</span></div>
     </header>
 
     <section class="hero">
@@ -47,8 +47,8 @@
       </div>
 
       <div class="actions">
-        <a class="refresh" href="https://github.com/Jorgeprdz/stremio-for-you/actions/workflows/pages.yml" target="_blank" rel="noopener">↻ Refresh manual</a>
-        <div class="note">Abre el workflow privado de GitHub. Pulsa <strong>Run workflow</strong>; la Control Tower detectará el nuevo deploy automáticamente.</div>
+        <button class="refresh" id="refreshBtn" type="button">↻ Refresh manual</button>
+        <div class="note" id="refreshState" aria-live="polite">Un toque: dispara una nueva generación sin salir de esta página.</div>
       </div>
     </section>
 
@@ -68,55 +68,33 @@
   <script>
     (()=>{
       const $=id=>document.getElementById(id);
+      const REFRESH_URL='https://rmlxigxysujsuwzgoimv.supabase.co/functions/v1/para-ti-refresh';
       let health=null;
+      let refreshPoll=null;
       const fmt=d=>new Intl.DateTimeFormat(undefined,{dateStyle:'medium',timeStyle:'short'}).format(d);
-      const humanMs=ms=>{
-        ms=Math.max(0,ms); const min=Math.floor(ms/60000); const h=Math.floor(min/60); const m=min%60;
-        if(h>0)return `${h} h ${m} min`; if(min>0)return `${min} min`; return '< 1 min';
-      };
+      const humanMs=ms=>{ms=Math.max(0,ms);const min=Math.floor(ms/60000),h=Math.floor(min/60),m=min%60;if(h>0)return `${h} h ${m} min`;if(min>0)return `${min} min`;return '< 1 min'};
       function nextCron(now=new Date()){
-        const hours=[0,6,12,18];
-        for(let day=0;day<3;day++){
-          for(const hour of hours){
-            const d=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate()+day,hour,17,0));
-            if(d.getTime()>now.getTime()) return d;
-          }
-        }
+        for(let day=0;day<3;day++)for(const hour of [0,6,12,18]){const d=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate()+day,hour,17,0));if(d>now)return d}
         return new Date(now.getTime()+6*3600000);
       }
       function renderClock(){
-        const now=new Date(); const n=nextCron(now);
-        $('nextUpdate').textContent=fmt(n);
-        $('countdown').textContent=`en ${humanMs(n-now)} · horario local`;
-        if(health?.generatedAt){
-          const last=new Date(health.generatedAt); const age=now-last; const hrs=age/3600000;
-          $('lastUpdate').textContent=fmt(last);
-          $('lastRelative').textContent=`hace ${humanMs(age)} · horario local`;
-          const badge=$('stateBadge');
-          if(hrs<=7){badge.textContent='PASS';badge.className='state pass'}
-          else if(hrs<=12){badge.textContent='WARN';badge.className='state warn'}
-          else{badge.textContent='FAIL';badge.className='state fail'}
-        }
+        const now=new Date(),n=nextCron(now);$('nextUpdate').textContent=fmt(n);$('countdown').textContent=`en ${humanMs(n-now)} · horario local`;
+        if(health?.generatedAt){const last=new Date(health.generatedAt),age=now-last,hrs=age/3600000;$('lastUpdate').textContent=fmt(last);$('lastRelative').textContent=`hace ${humanMs(age)} · horario local`;const b=$('stateBadge');if(hrs<=7){b.textContent='PASS';b.className='state pass'}else if(hrs<=12){b.textContent='WARN';b.className='state warn'}else{b.textContent='FAIL';b.className='state fail'}}
       }
       async function loadHealth(){
-        try{
-          const res=await fetch(`./health.json?t=${Date.now()}`,{cache:'no-store'});
-          if(!res.ok) throw new Error(`HTTP ${res.status}`);
-          health=await res.json();
-          $('count').textContent=health.count ?? '—';
-          $('gemini').textContent=health.geminiUsed ? 'ON' : 'OFF';
-          $('exploit').textContent=health.exploitationCount ?? '85';
-          $('explore').textContent=health.explorationCount ?? '15';
-          $('version').textContent=`${health.name||'Para ti AI'} · v${health.version||'—'}`;
-          renderClock();
-        }catch(e){
-          const badge=$('stateBadge');badge.textContent='FAIL';badge.className='state fail';
-          $('lastRelative').textContent='No se pudo leer health.json';
-        }
+        try{const res=await fetch(`./health.json?t=${Date.now()}`,{cache:'no-store'});if(!res.ok)throw new Error(`HTTP ${res.status}`);health=await res.json();$('count').textContent=health.count??'—';$('gemini').textContent=health.geminiUsed?'ON':'OFF';$('exploit').textContent=health.exploitationCount??'85';$('explore').textContent=health.explorationCount??'15';$('version').textContent=`${health.name||'Para ti AI'} · v${health.version||'—'}`;renderClock();return health}catch(e){const b=$('stateBadge');b.textContent='FAIL';b.className='state fail';$('lastRelative').textContent='No se pudo leer health.json';return null}
       }
-      loadHealth(); renderClock();
-      setInterval(renderClock,30000);
-      setInterval(loadHealth,60000);
+      function startPostRefreshPolling(previousGeneratedAt){
+        if(refreshPoll)clearInterval(refreshPoll);
+        let tries=0;
+        refreshPoll=setInterval(async()=>{tries++;const h=await loadHealth();if(h?.generatedAt&&h.generatedAt!==previousGeneratedAt){clearInterval(refreshPoll);refreshPoll=null;$('refreshBtn').disabled=false;$('refreshBtn').textContent='↻ Refresh manual';$('refreshState').textContent='✅ Catálogo actualizado y publicado.';$('refreshState').className='note ok'}else if(tries>=30){clearInterval(refreshPoll);refreshPoll=null;$('refreshBtn').disabled=false;$('refreshBtn').textContent='↻ Refresh manual';$('refreshState').textContent='El refresh sigue procesándose; la página continuará revisando el estado automáticamente.';$('refreshState').className='note'}},10000);
+      }
+      async function manualRefresh(){
+        const btn=$('refreshBtn'),state=$('refreshState'),before=health?.generatedAt||null;btn.disabled=true;btn.textContent='↻ Iniciando…';state.textContent='Solicitando nueva generación…';state.className='note';
+        try{const res=await fetch(REFRESH_URL,{method:'POST',headers:{'content-type':'application/json'},body:'{}'});const body=await res.json().catch(()=>({}));if(!res.ok||!body.ok)throw new Error(body.error||`HTTP ${res.status}`);btn.textContent='✓ Refresh started';state.textContent=body.state==='already_running'?'Ya había una actualización corriendo. La estoy vigilando.':body.state==='recently_started'?'Ya se había iniciado hace unos minutos. La estoy vigilando.':'Refresh iniciado. Actualizaré esta pantalla cuando termine.';state.className='note ok';startPostRefreshPolling(before)}catch(e){btn.disabled=false;btn.textContent='↻ Refresh manual';state.textContent=`No se pudo iniciar: ${e.message}`;state.className='note bad'}
+      }
+      $('refreshBtn').addEventListener('click',manualRefresh);
+      loadHealth();renderClock();setInterval(renderClock,30000);setInterval(loadHealth,60000);
     })();
   </script>
 <script src="./refresh.js"></script></body>
