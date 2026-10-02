@@ -1,0 +1,12 @@
+{
+  "name": "Los Simpsons TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0096697",
+      "name": "The Simpsons",
+      "type": "series",
+      "year": 1989
+    }
+  ]
+}
