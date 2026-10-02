@@ -1,0 +1,12 @@
+{
+  "name": "Friends TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0108778",
+      "name": "Friends",
+      "type": "series",
+      "year": 1994
+    }
+  ]
+}
