@@ -1,0 +1,84 @@
+{
+  "name": "Sony TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0108778",
+      "name": "Friends",
+      "type": "series",
+      "year": 1994
+    },
+    {
+      "id": "tt0098904",
+      "name": "Seinfeld",
+      "type": "series",
+      "year": 1989
+    },
+    {
+      "id": "tt0165581",
+      "name": "The King of Queens",
+      "type": "series",
+      "year": 1998
+    },
+    {
+      "id": "tt0115167",
+      "name": "Everybody Loves Raymond",
+      "type": "series",
+      "year": 1996
+    },
+    {
+      "id": "tt0460637",
+      "name": "Everybody Hates Chris",
+      "type": "series",
+      "year": 2005
+    },
+    {
+      "id": "tt0157246",
+      "name": "Will & Grace",
+      "type": "series",
+      "year": 1998
+    },
+    {
+      "id": "tt0115369",
+      "name": "Spin City",
+      "type": "series",
+      "year": 1996
+    },
+    {
+      "id": "tt0106004",
+      "name": "Frasier",
+      "type": "series",
+      "year": 1993
+    },
+    {
+      "id": "tt0118364",
+      "name": "Just Shoot Me!",
+      "type": "series",
+      "year": 1997
+    },
+    {
+      "id": "tt0103484",
+      "name": "Mad About You",
+      "type": "series",
+      "year": 1992
+    },
+    {
+      "id": "tt0108894",
+      "name": "Party of Five",
+      "type": "series",
+      "year": 1994
+    },
+    {
+      "id": "tt0118300",
+      "name": "Dawson's Creek",
+      "type": "series",
+      "year": 1998
+    },
+    {
+      "id": "tt0758745",
+      "name": "Friday Night Lights",
+      "type": "series",
+      "year": 2006
+    }
+  ]
+}
