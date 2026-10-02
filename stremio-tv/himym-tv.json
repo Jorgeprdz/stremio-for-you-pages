@@ -1,0 +1,12 @@
+{
+  "name": "HIMYM TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0460649",
+      "name": "How I Met Your Mother",
+      "type": "series",
+      "year": 2005
+    }
+  ]
+}
