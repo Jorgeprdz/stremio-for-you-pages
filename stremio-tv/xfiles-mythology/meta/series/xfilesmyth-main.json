@@ -1,0 +1,508 @@
+{
+  "meta": {
+    "id": "xfilesmyth-main",
+    "type": "series",
+    "name": "The X-Files: Mythology",
+    "poster": "https://images.metahub.space/poster/medium/tt0106179/img",
+    "background": "https://images.metahub.space/background/medium/tt0106179/img",
+    "videos": [
+      {
+        "id": "tt0106179:1:1",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:1:2",
+        "title": "Deep Throat",
+        "season": 1,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:1:10",
+        "title": "Fallen Angel",
+        "season": 1,
+        "episode": 10,
+        "number": 10
+      },
+      {
+        "id": "tt0106179:1:17",
+        "title": "E.B.E.",
+        "season": 1,
+        "episode": 17,
+        "number": 17
+      },
+      {
+        "id": "tt0106179:1:24",
+        "title": "The Erlenmeyer Flask",
+        "season": 1,
+        "episode": 24,
+        "number": 24
+      },
+      {
+        "id": "tt0106179:2:1",
+        "title": "Little Green Men",
+        "season": 2,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:2:5",
+        "title": "Duane Barry",
+        "season": 2,
+        "episode": 5,
+        "number": 5
+      },
+      {
+        "id": "tt0106179:2:6",
+        "title": "Ascension",
+        "season": 2,
+        "episode": 6,
+        "number": 6
+      },
+      {
+        "id": "tt0106179:2:8",
+        "title": "One Breath",
+        "season": 2,
+        "episode": 8,
+        "number": 8
+      },
+      {
+        "id": "tt0106179:2:10",
+        "title": "Red Museum",
+        "season": 2,
+        "episode": 10,
+        "number": 10
+      },
+      {
+        "id": "tt0106179:2:16",
+        "title": "Colony",
+        "season": 2,
+        "episode": 16,
+        "number": 16
+      },
+      {
+        "id": "tt0106179:2:17",
+        "title": "End Game",
+        "season": 2,
+        "episode": 17,
+        "number": 17
+      },
+      {
+        "id": "tt0106179:2:25",
+        "title": "Anasazi",
+        "season": 2,
+        "episode": 25,
+        "number": 25
+      },
+      {
+        "id": "tt0106179:3:1",
+        "title": "The Blessing Way",
+        "season": 3,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:3:2",
+        "title": "Paper Clip",
+        "season": 3,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:3:9",
+        "title": "Nisei",
+        "season": 3,
+        "episode": 9,
+        "number": 9
+      },
+      {
+        "id": "tt0106179:3:10",
+        "title": "731",
+        "season": 3,
+        "episode": 10,
+        "number": 10
+      },
+      {
+        "id": "tt0106179:3:15",
+        "title": "Piper Maru",
+        "season": 3,
+        "episode": 15,
+        "number": 15
+      },
+      {
+        "id": "tt0106179:3:16",
+        "title": "Apocrypha",
+        "season": 3,
+        "episode": 16,
+        "number": 16
+      },
+      {
+        "id": "tt0106179:3:24",
+        "title": "Talitha Cumi",
+        "season": 3,
+        "episode": 24,
+        "number": 24
+      },
+      {
+        "id": "tt0106179:4:1",
+        "title": "Herrenvolk",
+        "season": 4,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:4:7",
+        "title": "Musings of a Cigarette Smoking Man",
+        "season": 4,
+        "episode": 7,
+        "number": 7
+      },
+      {
+        "id": "tt0106179:4:8",
+        "title": "Tunguska",
+        "season": 4,
+        "episode": 8,
+        "number": 8
+      },
+      {
+        "id": "tt0106179:4:9",
+        "title": "Terma",
+        "season": 4,
+        "episode": 9,
+        "number": 9
+      },
+      {
+        "id": "tt0106179:4:14",
+        "title": "Memento Mori",
+        "season": 4,
+        "episode": 14,
+        "number": 14
+      },
+      {
+        "id": "tt0106179:4:17",
+        "title": "Tempus Fugit",
+        "season": 4,
+        "episode": 17,
+        "number": 17
+      },
+      {
+        "id": "tt0106179:4:18",
+        "title": "Max",
+        "season": 4,
+        "episode": 18,
+        "number": 18
+      },
+      {
+        "id": "tt0106179:4:21",
+        "title": "Zero Sum",
+        "season": 4,
+        "episode": 21,
+        "number": 21
+      },
+      {
+        "id": "tt0106179:4:23",
+        "title": "Demons",
+        "season": 4,
+        "episode": 23,
+        "number": 23
+      },
+      {
+        "id": "tt0106179:4:24",
+        "title": "Gethsemane",
+        "season": 4,
+        "episode": 24,
+        "number": 24
+      },
+      {
+        "id": "tt0106179:5:1",
+        "title": "Redux",
+        "season": 5,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:5:2",
+        "title": "Redux II",
+        "season": 5,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:5:6",
+        "title": "Christmas Carol",
+        "season": 5,
+        "episode": 6,
+        "number": 6
+      },
+      {
+        "id": "tt0106179:5:7",
+        "title": "Emily",
+        "season": 5,
+        "episode": 7,
+        "number": 7
+      },
+      {
+        "id": "tt0106179:5:13",
+        "title": "Patient X",
+        "season": 5,
+        "episode": 13,
+        "number": 13
+      },
+      {
+        "id": "tt0106179:5:14",
+        "title": "The Red and the Black",
+        "season": 5,
+        "episode": 14,
+        "number": 14
+      },
+      {
+        "id": "tt0106179:5:20",
+        "title": "The End",
+        "season": 5,
+        "episode": 20,
+        "number": 20
+      },
+      {
+        "id": "tt0106179:6:1",
+        "title": "The Beginning",
+        "season": 6,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:6:9",
+        "title": "S.R. 819",
+        "season": 6,
+        "episode": 9,
+        "number": 9
+      },
+      {
+        "id": "tt0106179:6:11",
+        "title": "Two Fathers",
+        "season": 6,
+        "episode": 11,
+        "number": 11
+      },
+      {
+        "id": "tt0106179:6:12",
+        "title": "One Son",
+        "season": 6,
+        "episode": 12,
+        "number": 12
+      },
+      {
+        "id": "tt0106179:6:22",
+        "title": "Biogenesis",
+        "season": 6,
+        "episode": 22,
+        "number": 22
+      },
+      {
+        "id": "tt0106179:7:1",
+        "title": "The Sixth Extinction",
+        "season": 7,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:7:2",
+        "title": "The Sixth Extinction II: Amor Fati",
+        "season": 7,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:7:10",
+        "title": "Sein Und Zeit",
+        "season": 7,
+        "episode": 10,
+        "number": 10
+      },
+      {
+        "id": "tt0106179:7:11",
+        "title": "Closure",
+        "season": 7,
+        "episode": 11,
+        "number": 11
+      },
+      {
+        "id": "tt0106179:7:15",
+        "title": "En Ami",
+        "season": 7,
+        "episode": 15,
+        "number": 15
+      },
+      {
+        "id": "tt0106179:7:22",
+        "title": "Requiem",
+        "season": 7,
+        "episode": 22,
+        "number": 22
+      },
+      {
+        "id": "tt0106179:8:1",
+        "title": "Within",
+        "season": 8,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:8:2",
+        "title": "Without",
+        "season": 8,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:8:11",
+        "title": "The Gift",
+        "season": 8,
+        "episode": 11,
+        "number": 11
+      },
+      {
+        "id": "tt0106179:8:13",
+        "title": "Per Manum",
+        "season": 8,
+        "episode": 13,
+        "number": 13
+      },
+      {
+        "id": "tt0106179:8:14",
+        "title": "This Is Not Happening",
+        "season": 8,
+        "episode": 14,
+        "number": 14
+      },
+      {
+        "id": "tt0106179:8:15",
+        "title": "DeadAlive",
+        "season": 8,
+        "episode": 15,
+        "number": 15
+      },
+      {
+        "id": "tt0106179:8:16",
+        "title": "Three Words",
+        "season": 8,
+        "episode": 16,
+        "number": 16
+      },
+      {
+        "id": "tt0106179:8:18",
+        "title": "Vienen",
+        "season": 8,
+        "episode": 18,
+        "number": 18
+      },
+      {
+        "id": "tt0106179:8:20",
+        "title": "Essence",
+        "season": 8,
+        "episode": 20,
+        "number": 20
+      },
+      {
+        "id": "tt0106179:8:21",
+        "title": "Existence",
+        "season": 8,
+        "episode": 21,
+        "number": 21
+      },
+      {
+        "id": "tt0106179:9:1",
+        "title": "Nothing Important Happened Today",
+        "season": 9,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:9:2",
+        "title": "Nothing Important Happened Today II",
+        "season": 9,
+        "episode": 2,
+        "number": 2
+      },
+      {
+        "id": "tt0106179:9:6",
+        "title": "Trust No 1",
+        "season": 9,
+        "episode": 6,
+        "number": 6
+      },
+      {
+        "id": "tt0106179:9:9",
+        "title": "Provenance",
+        "season": 9,
+        "episode": 9,
+        "number": 9
+      },
+      {
+        "id": "tt0106179:9:10",
+        "title": "Providence",
+        "season": 9,
+        "episode": 10,
+        "number": 10
+      },
+      {
+        "id": "tt0106179:9:16",
+        "title": "William",
+        "season": 9,
+        "episode": 16,
+        "number": 16
+      },
+      {
+        "id": "tt0106179:9:19",
+        "title": "The Truth — Part 1",
+        "season": 9,
+        "episode": 19,
+        "number": 19
+      },
+      {
+        "id": "tt0106179:9:20",
+        "title": "The Truth — Part 2",
+        "season": 9,
+        "episode": 20,
+        "number": 20
+      },
+      {
+        "id": "tt0106179:10:1",
+        "title": "My Struggle",
+        "season": 10,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:10:6",
+        "title": "My Struggle II",
+        "season": 10,
+        "episode": 6,
+        "number": 6
+      },
+      {
+        "id": "tt0106179:11:1",
+        "title": "My Struggle III",
+        "season": 11,
+        "episode": 1,
+        "number": 1
+      },
+      {
+        "id": "tt0106179:11:5",
+        "title": "Ghouli",
+        "season": 11,
+        "episode": 5,
+        "number": 5
+      },
+      {
+        "id": "tt0106179:11:10",
+        "title": "My Struggle IV",
+        "season": 11,
+        "episode": 10,
+        "number": 10
+      }
+    ]
+  }
+}
