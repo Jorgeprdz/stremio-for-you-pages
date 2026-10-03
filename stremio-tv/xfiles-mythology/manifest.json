@@ -1,0 +1,16 @@
+{
+  "id": "com.jorge.xfiles-mythology-meta",
+  "version": "1.0.0",
+  "name": "X-Files Mythology Meta",
+  "description": "Episode metadata restricted to The X-Files mythology arc for Debrify Stremio TV.",
+  "resources": [
+    "meta"
+  ],
+  "types": [
+    "series"
+  ],
+  "idPrefixes": [
+    "xfilesmyth-"
+  ],
+  "catalogs": []
+}
