@@ -1,0 +1,21 @@
+{
+  "name": "Caballeros del Zodiaco Latino TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0161952",
+      "name": "Los Caballeros del Zodiaco",
+      "type": "series",
+      "year": 1986,
+      "overview": "Saint Seiya clásico (1986–1989): 114 episodios de la serie original. Canal pensado para reproducirse con audio en español latino cuando la fuente seleccionada lo incluya.",
+      "poster": "https://images.metahub.space/poster/medium/tt0161952/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0161952/img",
+      "genres": [
+        "Anime",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    }
+  ]
+}
