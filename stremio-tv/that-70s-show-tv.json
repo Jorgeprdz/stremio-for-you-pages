@@ -1,0 +1,14 @@
+{
+  "name": "That '70s Show TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0165598",
+      "name": "That '70s Show",
+      "type": "series",
+      "year": 1998,
+      "poster": "https://images.metahub.space/poster/medium/tt0165598/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0165598/img"
+    }
+  ]
+}
