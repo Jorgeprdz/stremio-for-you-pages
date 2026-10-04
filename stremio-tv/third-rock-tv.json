@@ -1,0 +1,14 @@
+{
+  "name": "Third Rock TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0115082",
+      "name": "3rd Rock from the Sun",
+      "type": "series",
+      "year": 1996,
+      "poster": "https://images.metahub.space/poster/medium/tt0115082/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0115082/img"
+    }
+  ]
+}
