@@ -4,7 +4,7 @@ URL para Browse repo: https://github.com/Jorgeprdz/stremio-for-you-pages/tree/ma
 
 El navegador Browse repo importa los archivos JSON de esta carpeta ordenados por nombre. Importa todos partiendo de una biblioteca local sin duplicados si quieres Sony como primer canal **local**. Otros addons pueden ocupar números previos.
 
-SERIES 01–14; MOVIES 15–20; puesto 16 reservado para GOLDEN CHANNEL (no hay copia exportada del catálogo original, NO fue recreado o modificado).
+SERIES 01–14; MOVIES 15–20; Golden Channel recuperado íntegro del PR #5 del repositorio Jorgeprdz/debrify como canal 16, 284 películas sin cambios en título, imagen o selección.
 
 Se preservan intactos los 8 catálogos individuales. Las películas de Blockbuster tienen imágenes por IMDb; los conciertos también.
 
@@ -12,7 +12,7 @@ AVISO: la propiedad top-level poster no se conserva en LocalCatalogImporter; las
 
 Se corrigió el Sony TV eliminando Frasier y Will & Grace (NewsRadio no figuraba en el JSON original) y agregando 3rd Rock from the Sun.
 
-Golden Channel: exporta el JSON original antes de borrar en Debrify para que pueda insertarse como 16 sin alterar su selección.
+Golden Channel: recuperado desde https://github.com/Jorgeprdz/debrify/pull/5, conservando la portada SVG existente, 284 películas e IDs originales. El cliente oficial sin el PR puede ignorar la portada independiente cover. La rotación de películas sí funciona como catálogo local.
 
 1. 01-sony-tv.json (series; undefined títulos)
 2. 02-warner-animation.json (series; undefined títulos)
