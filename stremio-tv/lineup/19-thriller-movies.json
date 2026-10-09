@@ -1,0 +1,334 @@
+{
+  "name": "Thriller Movies TV",
+  "type": "movie",
+  "items": [
+    {
+      "id": "tt0114369",
+      "name": "Se7en",
+      "type": "movie",
+      "year": 1995,
+      "poster": "https://images.metahub.space/poster/medium/tt0114369/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0114369/img"
+    },
+    {
+      "id": "tt0102926",
+      "name": "The Silence of the Lambs",
+      "type": "movie",
+      "year": 1991,
+      "poster": "https://images.metahub.space/poster/medium/tt0102926/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0102926/img"
+    },
+    {
+      "id": "tt0443706",
+      "name": "Zodiac",
+      "type": "movie",
+      "year": 2007,
+      "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0443706/img"
+    },
+    {
+      "id": "tt1392214",
+      "name": "Prisoners",
+      "type": "movie",
+      "year": 2013,
+      "poster": "https://images.metahub.space/poster/medium/tt1392214/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1392214/img"
+    },
+    {
+      "id": "tt2267998",
+      "name": "Gone Girl",
+      "type": "movie",
+      "year": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt2267998/img",
+      "fanart": "https://images.metahub.space/background/medium/tt2267998/img"
+    },
+    {
+      "id": "tt1130884",
+      "name": "Shutter Island",
+      "type": "movie",
+      "year": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1130884/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1130884/img"
+    },
+    {
+      "id": "tt1568346",
+      "name": "The Girl with the Dragon Tattoo",
+      "type": "movie",
+      "year": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt1568346/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1568346/img"
+    },
+    {
+      "id": "tt2872718",
+      "name": "Nightcrawler",
+      "type": "movie",
+      "year": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt2872718/img",
+      "fanart": "https://images.metahub.space/background/medium/tt2872718/img"
+    },
+    {
+      "id": "tt0209144",
+      "name": "Memento",
+      "type": "movie",
+      "year": 2000,
+      "poster": "https://images.metahub.space/poster/medium/tt0209144/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0209144/img"
+    },
+    {
+      "id": "tt0482571",
+      "name": "The Prestige",
+      "type": "movie",
+      "year": 2006,
+      "poster": "https://images.metahub.space/poster/medium/tt0482571/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0482571/img"
+    },
+    {
+      "id": "tt1375666",
+      "name": "Inception",
+      "type": "movie",
+      "year": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1375666/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1375666/img"
+    },
+    {
+      "id": "tt0167404",
+      "name": "The Sixth Sense",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0167404/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0167404/img"
+    },
+    {
+      "id": "tt0230600",
+      "name": "The Others",
+      "type": "movie",
+      "year": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0230600/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0230600/img"
+    },
+    {
+      "id": "tt0161081",
+      "name": "What Lies Beneath",
+      "type": "movie",
+      "year": 2000,
+      "poster": "https://images.metahub.space/poster/medium/tt0161081/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0161081/img"
+    },
+    {
+      "id": "tt0164181",
+      "name": "Stir of Echoes",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0164181/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0164181/img"
+    },
+    {
+      "id": "tt0298130",
+      "name": "The Ring",
+      "type": "movie",
+      "year": 2002,
+      "poster": "https://images.metahub.space/poster/medium/tt0298130/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0298130/img"
+    },
+    {
+      "id": "tt0185937",
+      "name": "The Blair Witch Project",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0185937/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0185937/img"
+    },
+    {
+      "id": "tt0112722",
+      "name": "Copycat",
+      "type": "movie",
+      "year": 1995,
+      "poster": "https://images.metahub.space/poster/medium/tt0112722/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0112722/img"
+    },
+    {
+      "id": "tt0100157",
+      "name": "Misery",
+      "type": "movie",
+      "year": 1990,
+      "poster": "https://images.metahub.space/poster/medium/tt0100157/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0100157/img"
+    },
+    {
+      "id": "tt0102945",
+      "name": "Sleeping with the Enemy",
+      "type": "movie",
+      "year": 1991,
+      "poster": "https://images.metahub.space/poster/medium/tt0102945/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0102945/img"
+    },
+    {
+      "id": "tt0103772",
+      "name": "Basic Instinct",
+      "type": "movie",
+      "year": 1992,
+      "poster": "https://images.metahub.space/poster/medium/tt0103772/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0103772/img"
+    },
+    {
+      "id": "tt0101540",
+      "name": "Cape Fear",
+      "type": "movie",
+      "year": 1991,
+      "poster": "https://images.metahub.space/poster/medium/tt0101540/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0101540/img"
+    },
+    {
+      "id": "tt0093010",
+      "name": "Fatal Attraction",
+      "type": "movie",
+      "year": 1987,
+      "poster": "https://images.metahub.space/poster/medium/tt0093010/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0093010/img"
+    },
+    {
+      "id": "tt0114814",
+      "name": "The Usual Suspects",
+      "type": "movie",
+      "year": 1995,
+      "poster": "https://images.metahub.space/poster/medium/tt0114814/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0114814/img"
+    },
+    {
+      "id": "tt0145681",
+      "name": "The Bone Collector",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0145681/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0145681/img"
+    },
+    {
+      "id": "tt0119468",
+      "name": "Kiss the Girls",
+      "type": "movie",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0119468/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0119468/img"
+    },
+    {
+      "id": "tt0164334",
+      "name": "Along Came a Spider",
+      "type": "movie",
+      "year": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0164334/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0164334/img"
+    },
+    {
+      "id": "tt0120768",
+      "name": "The Negotiator",
+      "type": "movie",
+      "year": 1998,
+      "poster": "https://images.metahub.space/poster/medium/tt0120768/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0120768/img"
+    },
+    {
+      "id": "tt0137363",
+      "name": "Arlington Road",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0137363/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0137363/img"
+    },
+    {
+      "id": "tt0118771",
+      "name": "Breakdown",
+      "type": "movie",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0118771/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0118771/img"
+    },
+    {
+      "id": "tt0118883",
+      "name": "Conspiracy Theory",
+      "type": "movie",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0118883/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0118883/img"
+    },
+    {
+      "id": "tt0120660",
+      "name": "Enemy of the State",
+      "type": "movie",
+      "year": 1998,
+      "poster": "https://images.metahub.space/poster/medium/tt0120660/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0120660/img"
+    },
+    {
+      "id": "tt0117438",
+      "name": "Ransom",
+      "type": "movie",
+      "year": 1996,
+      "poster": "https://images.metahub.space/poster/medium/tt0117438/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0117438/img"
+    },
+    {
+      "id": "tt0369339",
+      "name": "Collateral",
+      "type": "movie",
+      "year": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0369339/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0369339/img"
+    },
+    {
+      "id": "tt0106977",
+      "name": "The Fugitive",
+      "type": "movie",
+      "year": 1993,
+      "poster": "https://images.metahub.space/poster/medium/tt0106977/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0106977/img"
+    },
+    {
+      "id": "tt0150377",
+      "name": "Double Jeopardy",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0150377/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0150377/img"
+    },
+    {
+      "id": "tt0117381",
+      "name": "Primal Fear",
+      "type": "movie",
+      "year": 1996,
+      "poster": "https://images.metahub.space/poster/medium/tt0117381/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0117381/img"
+    },
+    {
+      "id": "tt0119174",
+      "name": "The Game",
+      "type": "movie",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0119174/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0119174/img"
+    },
+    {
+      "id": "tt3397884",
+      "name": "Sicario",
+      "type": "movie",
+      "year": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt3397884/img",
+      "fanart": "https://images.metahub.space/background/medium/tt3397884/img"
+    },
+    {
+      "id": "tt0118971",
+      "name": "The Devil's Advocate",
+      "type": "movie",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0118971/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0118971/img"
+    },
+    {
+      "id": "tt0137523",
+      "name": "Fight Club",
+      "type": "movie",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0137523/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0137523/img"
+    }
+  ]
+}

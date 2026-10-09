@@ -1,0 +1,14 @@
+{
+  "name": "Los Simpsons TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0096697",
+      "name": "The Simpsons",
+      "type": "series",
+      "year": 1989,
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0096697/img"
+    }
+  ]
+}

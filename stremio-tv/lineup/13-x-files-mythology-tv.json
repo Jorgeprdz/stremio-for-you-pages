@@ -1,0 +1,37 @@
+{
+  "name": "X-Files Mythology TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "xfilesmyth-main",
+      "imdb_id": "tt0106179",
+      "name": "The X-Files: Mythology",
+      "type": "series",
+      "year": 1993,
+      "overview": "Solo episodios del arco de conspiración y mitología alienígena de The X-Files.",
+      "poster": "https://images.metahub.space/poster/medium/tt0106179/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0106179/img",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Conspiracy"
+      ],
+      "source_addon": {
+        "id": "com.jorge.xfiles-mythology-meta",
+        "name": "X-Files Mythology Meta",
+        "manifest_url": "https://jorgeprdz.github.io/stremio-for-you-pages/stremio-tv/xfiles-mythology/manifest.json",
+        "base_url": "https://jorgeprdz.github.io/stremio-for-you-pages/stremio-tv/xfiles-mythology",
+        "enabled": true,
+        "types": [
+          "series"
+        ],
+        "resources": [
+          "meta"
+        ],
+        "id_prefixes": [
+          "xfilesmyth-"
+        ]
+      }
+    }
+  ]
+}

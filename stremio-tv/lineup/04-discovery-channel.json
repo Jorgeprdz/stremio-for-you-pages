@@ -1,0 +1,86 @@
+{
+  "name": "Discovery Channel 2000",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0383126",
+      "name": "MythBusters",
+      "type": "series",
+      "year": 2003,
+      "poster": "https://images.metahub.space/poster/medium/tt0383126/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0383126/img"
+    },
+    {
+      "id": "tt0883772",
+      "name": "Man vs. Wild",
+      "type": "series",
+      "year": 2006,
+      "poster": "https://images.metahub.space/poster/medium/tt0883772/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0883772/img"
+    },
+    {
+      "id": "tt0835010",
+      "name": "How It's Made",
+      "type": "series",
+      "year": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0835010/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0835010/img"
+    },
+    {
+      "id": "tt0862583",
+      "name": "How Do They Do It?",
+      "type": "series",
+      "year": 2006,
+      "poster": "https://images.metahub.space/poster/medium/tt0862583/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0862583/img"
+    },
+    {
+      "id": "tt0364806",
+      "name": "Extreme Engineering",
+      "type": "series",
+      "year": 2003,
+      "poster": "https://images.metahub.space/poster/medium/tt0364806/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0364806/img"
+    },
+    {
+      "id": "tt1312022",
+      "name": "Time Warp",
+      "type": "series",
+      "year": 2008,
+      "poster": "https://images.metahub.space/poster/medium/tt1312022/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1312022/img"
+    },
+    {
+      "id": "tt0458259",
+      "name": "Dirty Jobs",
+      "type": "series",
+      "year": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0458259/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0458259/img"
+    },
+    {
+      "id": "tt0446809",
+      "name": "Deadliest Catch",
+      "type": "series",
+      "year": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0446809/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0446809/img"
+    },
+    {
+      "id": "tt0770659",
+      "name": "Survivorman",
+      "type": "series",
+      "year": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0770659/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0770659/img"
+    },
+    {
+      "id": "tt1278202",
+      "name": "Destroyed in Seconds",
+      "type": "series",
+      "year": 2008,
+      "poster": "https://images.metahub.space/poster/medium/tt1278202/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1278202/img"
+    }
+  ]
+}

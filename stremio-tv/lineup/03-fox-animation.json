@@ -1,0 +1,70 @@
+{
+  "name": "FOX Animation TV",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt0096697",
+      "name": "The Simpsons",
+      "type": "series",
+      "year": 1989,
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0096697/img"
+    },
+    {
+      "id": "tt0149460",
+      "name": "Futurama",
+      "type": "series",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0149460/img"
+    },
+    {
+      "id": "tt0118375",
+      "name": "King of the Hill",
+      "type": "series",
+      "year": 1997,
+      "poster": "https://images.metahub.space/poster/medium/tt0118375/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0118375/img"
+    },
+    {
+      "id": "tt0182576",
+      "name": "Family Guy",
+      "type": "series",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0182576/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0182576/img"
+    },
+    {
+      "id": "tt0397306",
+      "name": "American Dad!",
+      "type": "series",
+      "year": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0397306/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0397306/img"
+    },
+    {
+      "id": "tt1195935",
+      "name": "The Cleveland Show",
+      "type": "series",
+      "year": 2009,
+      "poster": "https://images.metahub.space/poster/medium/tt1195935/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1195935/img"
+    },
+    {
+      "id": "tt1561755",
+      "name": "Bob's Burgers",
+      "type": "series",
+      "year": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt1561755/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1561755/img"
+    },
+    {
+      "id": "tt0182621",
+      "name": "The PJs",
+      "type": "series",
+      "year": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0182621/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0182621/img"
+    }
+  ]
+}
