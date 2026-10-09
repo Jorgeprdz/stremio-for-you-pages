@@ -27,6 +27,42 @@
       ]
     },
     {
+      "id": "tt2133214",
+      "name": "Duran Duran: Unstaged",
+      "type": "movie",
+      "year": 2011,
+      "overview": "Duran Duran · New Wave · Film de concierto dirigido por David Lynch.",
+      "genres": [
+        "Music",
+        "Concert",
+        "New Wave"
+      ]
+    },
+    {
+      "id": "tt0401587",
+      "name": "The Cranberries: Live at Vicar St.",
+      "type": "movie",
+      "year": 2003,
+      "overview": "The Cranberries · Alternative Rock · Actuación en directo.",
+      "genres": [
+        "Music",
+        "Concert",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "id": "tt35934347",
+      "name": "Arcade Fire at Bilbao BBK Live 2024",
+      "type": "movie",
+      "year": 2024,
+      "overview": "Arcade Fire · Indie Rock · Concierto en directo de 92 minutos en el festival Bilbao BBK Live.",
+      "genres": [
+        "Music",
+        "Concert",
+        "Indie Rock"
+      ]
+    },
+    {
       "id": "tt0423027",
       "name": "R.E.M.: Perfect Square",
       "type": "movie",
