@@ -29,11 +29,12 @@ Golden Channel: recuperado desde https://github.com/Jorgeprdz/debrify/pull/5, co
 13. 13-x-files-mythology-tv.json (series; undefined títulos)
 14. 14-concerts-tv.json (movie; undefined títulos)
 15. 15-blockbuster-classics-tv.json (movie; undefined títulos)
-16. 17-war-movies.json (movie; undefined títulos)
-17. 18-crime-movies.json (movie; undefined títulos)
-18. 19-thriller-movies.json (movie; undefined títulos)
-19. 20-sports-movies.json (movie; undefined títulos)
-20. 21-imdb-top-250.json (movie; 250 películas, ranking IMDb actualizado al corte 2026-10-15)
+16. 16-golden-channel.json (movie; 284 películas)
+17. 17-war-movies.json (movie; canal existente)
+18. 18-crime-movies.json (movie; canal existente)
+19. 19-thriller-movies.json (movie; canal existente)
+20. 20-sports-movies.json (movie; canal existente)
+21. 21-imdb-top-250.json (movie; 250 películas, corte 2026-10-15)
 
 Canal 21 — IMDb Top 250: https://jorgeprdz.github.io/stremio-for-you-pages/stremio-tv/imdb-top-250-tv.json
 Importación directa o desde Browse repo: el archivo adicional se conserva en stremio-tv/lineup/21-imdb-top-250.json. Los posters y fanarts se resuelven mediante Metahub; las fuentes de reproducción dependen de los addons instalados. Este JSON es una instantánea del ranking del 15 de octubre de 2026 y no se actualiza automáticamente con cambios futuros en IMDb.
