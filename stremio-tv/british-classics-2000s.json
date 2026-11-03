@@ -1,0 +1,38 @@
+{
+  "name": "British Classics 2000s",
+  "type": "series",
+  "items": [
+    {
+      "id": "tt1628033",
+      "name": "Top Gear",
+      "type": "series",
+      "year": 2002,
+      "poster": "https://images.metahub.space/poster/medium/tt1628033/img",
+      "fanart": "https://images.metahub.space/background/medium/tt1628033/img"
+    },
+    {
+      "id": "tt0924651",
+      "name": "The Graham Norton Show",
+      "type": "series",
+      "year": 2007,
+      "poster": "https://images.metahub.space/poster/medium/tt0924651/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0924651/img"
+    },
+    {
+      "id": "tt0409608",
+      "name": "Ramsay's Kitchen Nightmares",
+      "type": "series",
+      "year": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0409608/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0409608/img"
+    },
+    {
+      "id": "tt0443370",
+      "name": "Dragons' Den",
+      "type": "series",
+      "year": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0443370/img",
+      "fanart": "https://images.metahub.space/background/medium/tt0443370/img"
+    }
+  ]
+}
